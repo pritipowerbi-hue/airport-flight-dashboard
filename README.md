@@ -1,5 +1,4 @@
-# airport-flight-dashboard
-Power BI dashboard for airport and flight data analysis
+
 # Airport & Flight Dashboard
 
 Power BI dashboard for airport and flight data analysis (2025).
